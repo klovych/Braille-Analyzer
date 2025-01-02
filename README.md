@@ -1,7 +1,7 @@
 📜 Braille-Analyzer
 
 🔍 Description:
-🌟 Braille Image Processor is a simple yet powerful Python tool for analyzing and processing PNG images. This utility transforms images into black-and-white format, extracts the coordinates of black pixels 🖤, and combines the extracted data to generate a unique SHA-256 hash-based flag 🔐.
+🌟 Braille-Analyzer is a simple yet powerful Python tool for analyzing and processing PNG images. This utility transforms images into black-and-white format, extracts the coordinates of black pixels 🖤, and combines the extracted data to generate a unique SHA-256 hash-based flag 🔐.
 
 🎯 Key Features:
 
